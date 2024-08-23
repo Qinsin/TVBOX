@@ -1,1 +1,48 @@
-sajaj
+{
+  "urls": [
+    {
+      "url": "http://我不是.摸鱼儿.top",
+      "name": "🐟 摸 鱼 "
+    },
+    {
+      "url": "https://www.yingm.cc/dm/dm.json",
+      "name": "🍍 动 漫 "
+    },
+    {
+      "url": "http://tvbox.715d.com/app/api.json",
+      "name": "🍱 六 趣 "
+    },
+    {
+      "url": "http://肥猫.com",
+      "name": "🐼 肥 猫 "
+    },
+    {
+      "url": "http://www.mpanso.com/小米/DEMO.json",
+      "name": "🍚 小 米 "
+    },
+    {
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+      "name": "😎 潇 洒 "
+    },
+    {
+      "url": "http://tvbox.王二小放牛娃.top",
+      "name": "🐂 放 牛 "
+    },
+    {
+      "url": "http://饭太硬.com/tv",
+      "name": "🍚饭太硬"
+    },
+    {
+      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "name": "🌿香雅情"
+    },
+    {
+      "url": "http://www.wya6.cn/tv/yc.php",
+      "name": "🥕无意云"
+    },
+    {
+      "url": "http://我不是.摸鱼儿.top/vip",
+      "name": "🐟 内 部 "
+    }
+  ]
+}
